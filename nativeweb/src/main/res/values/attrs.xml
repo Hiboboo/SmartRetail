@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HybridWebView">
+        <!-- 是否需要WebviewClient拦截器 -->
+        <attr name="hw_isNeedWebClientIntercept" format="boolean"/>
+        <!-- 是否需要WebChromeClient拦截器 -->
+        <attr name="hw_isNeedWebChromeClientIntercept" format="boolean"/>
+    </declare-styleable>
+</resources>

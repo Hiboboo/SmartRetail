@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Library.OKhttp</string>
+    <string name="lib_label_cancel">取消</string>
+    <string name="lib_message_token_error">令牌有误</string>
+    <string name="lib_message_register_token">
+        您的访问令牌似乎出现了点问题，请尝试重新登录后再刷新！
+    </string>
+    <string name="lib_message_login_timeout">登录超时</string>
+    <string name="lib_message_relogin">您的登录状态已超时，请重新登录后再刷新！</string>
+    <string name="lib_label_relogin">重新登录</string>
+    <string name="message_progress_compress">正在压缩图片&#8230;</string>
+</resources>
